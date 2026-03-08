@@ -8,7 +8,6 @@ int main()
 if(a<0)
 {
     printf("Factorial is not defined for negative numers.");
-
 }
 else{
     for(int i=1;i<=a;i++)
